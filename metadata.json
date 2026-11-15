@@ -1,0 +1,6 @@
+{
+  "name": "Midnight at BMSIT",
+  "description": "A cartoon horror-comedy campus escape runner with ghost busting, power-ups, and Web Development puzzle locks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
